@@ -1,10 +1,10 @@
-# Chatbot Simpleton
+# Simpleton Chatbot
 
 # This script will perform these steps:
 
 # Import the necessary packages
 # Define a script path to the object and print
-# THE LOCATION OF EVERY FILE THAT IS BEING USED HERE
+# Print the version of python and the location
 # Open and read a local csv file
 # Load the data in a dataframe object
 # df object
